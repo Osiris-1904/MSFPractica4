@@ -1,9 +1,8 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica0MSF)
-
-# Práctica 0: Modelo del sistema respiratorio
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Osiris-1904/MSFPractica4)
+# Práctica 4: Modelo del sistema endocrino
 
 ## Información del estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Osiris Jaylin Chavez Hernandez \[23210697]; l23210697@tijuana.tecn.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -32,9 +31,9 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 ## Descripción detallada del sistema
 
-Un circuito RLC representa un sistema de segundo orden que modeliza, de manera simplificada, la mecánica pulmonar: El resistor R representa una combinación de la resistencia al flujo de aire Q(t) en las vías respiratorias, el tejido pulmonar y la pared torácica. El inductor L representa la inertancia. Los componentes R y C representan respectivamente las propiedades mecánicas resistivas y de almacenamiento del sistema respiratorio. El objetivo del modelo eléctrico es predecir la respuesta dinámica de la presión alveolar PA(t) a diferentes formas de onda de presión Pao(t) aplicadas en la apertura de las vías respiratorias.
+Un circuito RLC puede representar, de manera simplificada, la dinámica del sistema endocrino, ya que permite modelar cómo una señal hormonal se produce, se transporta y genera una respuesta en el organismo. En esta analogía, el resistor R representa la resistencia o dificultad en la regulación metabólica y en la respuesta de los tejidos ante una hormona; el capacitor C representa la capacidad de almacenamiento o acumulación hormonal en el sistema; y el inductor L representa la inercia o retardo fisiológico en la respuesta hormonal. El objetivo del modelo eléctrico es analizar cómo cambia la salida del sistema ante una señal de entrada, simulando el comportamiento de las glándulas endocrinas, la liberación de hormonas y los mecanismos de retroalimentación hormonal que mantienen la homeostasis.
 
-Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Hormonas; Glándulas endocrinas; Regulación metabólica; Homeostasis; Retroalimentación hormonal.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
