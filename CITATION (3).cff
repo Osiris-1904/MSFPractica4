@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Sistema endocrino'
+message: Modelado de Sistemas Fisiológicos / Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Osiris J.
+    family-names: Chavez Hernandez
+    email: l23210697@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+identifiers:
+  - type: url
+    value: 'https://github.com/Osiris-1904/MSFPractica4'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/Osiris-1904/MSFPractica4'
+keywords:
+  - Hormonas
+  - Glándulas endocrinas
+  - Regulación metabólica
+  - Homeostasis
+  - Retroalimentación hormonal
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-05-12'
